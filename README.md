@@ -46,10 +46,10 @@ We surveyed **103 students** from diverse departments and academic years at CSUE
 
 ### 📝 Conclusion
 
-Students benefit most from a **hybrid approach** combining traditional and online learning resources. While non-college platforms are frequently used, college resources remain highly valued—especially when evaluated using resampled, bootstrapped data.
+Students benefit most from a **hybrid approach** combining traditional and online learning resources. While non-college platforms are frequently used, college resources remain highly valued especially when evaluated using resampled, bootstrapped data.
 
 ---
-### 🔗 Authors
+###  Authors
 
 - [Bringesh]
 - Nanda Vihari  
